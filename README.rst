@@ -1,40 +1,54 @@
-AlertOps Expert Guidance
+COVID-19 Pandemic: How to Use AlertOps to Keep Your Enterprise Running
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+The coronavirus (COVID-19) pandemic has forced many global enterprises to temporarily shut down their operations, resulting in lost productivity and revenue losses. Yet, with a business continuity management (BCM) strategy, enterprises are well-equipped to limit business interruptions until the pandemic passes.
+What Is BCM, and Why Is It Important for Global Enterprises?
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+BCM refers to any planning or preparations to help an enterprise quickly restore its operations after an incident. The COVID-19 pandemic has led many global enterprises to rethink BCM, and some enterprises are working tirelessly to develop and implement BCM strategies on the fly.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Proper BCM planning requires an enterprise to consider all of its key stakeholders. That way, an enterprise can ensure its stakeholders are informed as an incident progresses, as well as provide them with tips and recommendations to limit associated business interruptions.
 
-Automate Processes
+Along with the impact of an incident on stakeholders, an enterprise must consider how it will communicate with them at all stages of the incident. Using a single communication method is insufficient, due to the fact that various forms of communication may be unavailable during an incident. Fortunately, with a BCM platform at its disposal, an enterprise can empower its stakeholders to keep in touch with one another and work together to maintain business continuity.
+
+
+
+How Does AlertOps Promote BCM?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+At AlertOps, we want to help global enterprises avoid business interruptions associated with the COVID-19 pandemic. Although the pandemic can make it difficult for enterprises to avoid lost productivity and revenue losses, our platform helps enterprise departments and teams communicate with one another. In doing so, our platform ensures your enterprise departments and teams can maintain constant contact during the COVID-19 pandemic and beyond.
 
-Clarity
+To understand the value of AlertOps for BCM, consider the following scenarios:
+Scenario 1: Alerting Incident Responders
+
+AlertOps allows you to quickly mobilize incident responders at the first sign of an incident. Initially, you can send a “blast” notification to key teams and departments to let them know about an incident. If a primary contact person does not respond to this notification, escalations are automatically triggered, so the incident can be addressed as quickly and efficiently as possible.
+
+With AlertOps, multiple contact methods can be used to deliver notifications, including email, SMS, voice, and push messages. AlertOps enables your enterprise to add new teams to an incident based on department, team, or skillset as well.
+
+AlertOps also allows you to send messages that feature a conference bridge. As such, incident management team members can instantly access a conference bridge and work together to resolve an incident before it significantly hampers your business operations.
+Scenario 2: Notifying Employees Across Departments and Teams
+
+AlertOps enables you to send manual alerts to a variety of departments and teams. Alerts can be sent to multiple departments and teams at the same time, or specific groups only. This ensures the right people can stay up to date throughout incident response.
+
+In addition, AlertOps provides pre-built templates to help you speed up incident communication. Pre-built templates ensure you can quickly notify stakeholders about an incident, then focus on what’s most important: addressing the issue.
+Scenario 3: Keeping Stakeholders Up to Date and Fostering Ongoing Communication and Collaboration
+
+AlertOps gives you the ability to automatically send alerts via Slack and Microsoft Teams and distribute these alerts based on team assignments, on-call schedules, and escalation policies. Thanks to pre-built Slack and Microsoft Teams integrations, AlertOps users can open up conversations in these real-time collaboration platforms any time they receive alerts.
+
+Also, you can integrate AlertOps into your monitoring stack, chat tools, and help desk to streamline alert management. This allows you to send alert responses via Slack or Microsoft Teams to your ticketing system, assign owners to tickets, and close tickets from your preferred collaboration platform.
+
+If you want to create incident management alerts via Slack or Microsoft Teams, AlertOps has you covered, too. Open AlertOps alerts via Slack or Microsoft Teams, and you can access incident management tickets. You can even automate communication with other systems by integrating Slack and Microsoft Teams with AlertOps.
+
+The Bottom Line on AlertOps for BCM
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+COVID-19 has transformed the way global enterprises operate, and they must adapt their operations accordingly ⁠— or risk lost productivity and revenue losses.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+At AlertOps, we understand the challenges of running your enterprise during the COVID-19 pandemic, and we want to help in any way we can. Our platform powers effective BCM, and it can help you share information with stakeholders throughout the pandemic. It also enables enterprise departments and teams to keep in contact with one another and lower the risk of business interruptions.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+We are happy to teach you about AlertOps for BCM and show you how our platform can help your enterprise prevent business interruptions. To learn more, please contact us today at sales@alertops.com. Or, click here to request a free demo.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/covid-pandemic-business-continuity/
 
 Read more:
 ====
